@@ -4,6 +4,7 @@
   <a href="https://www.npmjs.com/package/awesome-video-player"><img src="https://img.shields.io/npm/l/awesome-video-player.svg?sanitize=true" alt="License"></a>
   <br>
 </p>
+
 > A Vue.js based video player with good look and custom user config
 
 > ✅ ***good-looking & support custom config***
