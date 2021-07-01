@@ -51,14 +51,14 @@ That's it, enjoy!
 ```html
 <template>
   <div id="app">
-    <vam-video
+    <awesome-video
       :properties="videoOption.properties"
       :videoStyle="videoOption.videoStyle"
       :controlsConfig="videoOption.controlsConfig"
       @play="playVideo"
       @canplay="canplayVideo"
       @pause="pauseVideo"
-    ></vam-video>
+    ></awesome-video>
   </div>
 </template>
 
