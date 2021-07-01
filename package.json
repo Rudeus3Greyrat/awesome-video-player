@@ -1,0 +1,29 @@
+{
+  "name": "awesome-video-player",
+  "version": "1.0.0",
+  "description": "A Vue.js based video player with good look and custom user config",
+  "main": "index.js",
+  "author": {
+    "name": "Rudeus3Greyrat",
+    "email": "xcmzwg@gmail.com",
+    "url": "https://github.com/Rudeus3Greyrat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rudeus3Greyrat/awesome-video-player.git"
+  },
+  "keywords": [
+    "awesome-video-player",
+    "vue video player",
+    "video player",
+    "vue player",
+    "vue video",
+    "video"
+  ],
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
